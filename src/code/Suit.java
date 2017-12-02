@@ -1,3 +1,4 @@
+package code;
 /**
  * Represents the four suits in a deck of cards.
  * They are ordered, in decreasing rank, from

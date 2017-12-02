@@ -1,3 +1,4 @@
+package code;
 /**
  * This class serves as the interface used by AppViewInformer class.
  * @author Ryan Grant and Michael Holt

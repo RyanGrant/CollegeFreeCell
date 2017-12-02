@@ -1,3 +1,4 @@
+package code;
 /**
  * This class serves as the main window for displaying the FreeCell game.
  * @author Ryan Grant and Michael Holt

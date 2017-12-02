@@ -1,3 +1,4 @@
+package code;
 /**
  * This class implements a home cell for the card game FreeCell.
  * @author Ryan Grant and Michael Holt

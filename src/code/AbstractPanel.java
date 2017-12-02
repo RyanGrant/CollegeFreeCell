@@ -1,3 +1,4 @@
+package code;
 /**
  * This class represents the abstract class for the panels used in
  * the game FreeCell.

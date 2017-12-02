@@ -1,3 +1,4 @@
+package code;
 /**
  * This java file serves as the interface used by AbstractCell.java.
  * @author Ryan Grant and Michael Holt

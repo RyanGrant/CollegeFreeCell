@@ -1,3 +1,6 @@
+package test;
+
+import code.*;
 import static org.junit.Assert.*;
 import org.junit.*;
 

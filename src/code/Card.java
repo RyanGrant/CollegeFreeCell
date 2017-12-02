@@ -1,3 +1,4 @@
+package code;
 import javax.swing.*;
 /**
  * Represents a playing card with a suit,
@@ -61,7 +62,7 @@ public class Card implements Comparable<Card>{
     }
 
     private Icon getImageFromFile(int rank, Suit suit){
-    	String fileName = "DECK/";
+    	String fileName = "../DECK/";
     	fileName += rank;
     	fileName += Character.toUpperCase(suit.toString().charAt(0));
     	fileName += ".GIF";
@@ -69,7 +70,7 @@ public class Card implements Comparable<Card>{
     }
 
     private Icon getBackFromFile(){
-    	String fileName = "DECK/CARDBACK.GIF";
+    	String fileName = "../DECK/CARDBACK.GIF";
     	return new ImageIcon(getClass().getResource(fileName));
     }
 

@@ -1,3 +1,4 @@
+package code;
 /**
  * This class is a main method template for our GUI-based game of FreeCell.
  * @author Ryan Grant and Michael Holt

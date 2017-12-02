@@ -1,3 +1,4 @@
+package code;
 /**
  * This class serves as the parent class, or superclass, 
  * of the HomeCell, FreeCell and Tableau classes.

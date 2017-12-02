@@ -1,3 +1,4 @@
+package code;
 /**
  * This java file tests our HomeCell, FreeCell, and Tableaux classes.
  * @author Ryan Grant and Michael Holt

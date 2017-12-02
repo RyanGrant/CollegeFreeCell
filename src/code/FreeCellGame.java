@@ -1,3 +1,4 @@
+package code;
 /**
  * This class represents the model for a game of FreeCell.
  * @author Ryan Grant and Michael Holt
